@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 1200,
+		"price": 800,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "tornados",
-		"price": 3500,
+		"price": 2600,
 		"karmatype": "Doom"
 	},
 	{
@@ -288,12 +288,17 @@
 	{
 		"abr": "removetrait",
 		"price": 1,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "genderswap",
-		"price": 1,
+		"price": 600,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "prisoner",
+		"price": 800,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "visitcolony",
@@ -346,5 +351,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 69
+	"total": 70
 }
