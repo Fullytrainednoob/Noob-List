@@ -106,11 +106,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "transportpodcrash",
-		"price": 400,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "tradercaravan",
 		"price": 400,
 		"karmatype": "Good"
@@ -171,7 +166,7 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "skillincrease",
+		"abr": "randomskill",
 		"price": 100,
 		"karmatype": "Neutral"
 	},
@@ -261,8 +256,8 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "levelskill",
-		"price": 1500,
+		"abr": "skillincrease",
+		"price": 100,
 		"karmatype": "Good"
 	},
 	{
@@ -334,7 +329,77 @@
 		"abr": "replacetrait",
 		"price": 1,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "rescueme",
+		"price": 1200,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "fullheal",
+		"price": 2167,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "passion",
+		"price": 7000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "removepassion",
+		"price": 5000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "backpack",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "settraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "cleartraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "use",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "wear",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "equip",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randomchildhood",
+		"price": 3000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randomadulthood",
+		"price": 3000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "smite",
+		"price": 2500,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "sanctuary",
+		"price": 100000,
+		"karmatype": "Good"
 	}
 	],
-	"total": 67
+	"total": 80
 }
